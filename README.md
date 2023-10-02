@@ -31,7 +31,7 @@ Fire Detectors play a very important role in Industries, Shops, Malls, Residenti
 ## Results
 When the fire is not in the range of the fire detector then Door remains close, Sprinkler remains off, Speaker remains silent, LCD panel prints the result SAFE but as soon as the fire comes in the detection range of the fire monitor then Sprinkler turns on and sprinkles water, Door opens, Speakers turn on, LCD panel prints FIRE DETECTED.
 
-##Demo
+##Click the below link to see the project Demonstration
 https://github.com/AyanNaska/IoT-FireGuard-Automated-Fire-Alert-and-Suppression-System/assets/113054786/c38b2218-efe2-49da-96b1-d72eced5b003
 
 ## Conclusion
