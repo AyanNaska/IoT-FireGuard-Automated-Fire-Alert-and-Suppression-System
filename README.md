@@ -31,5 +31,8 @@ Fire Detectors play a very important role in Industries, Shops, Malls, Residenti
 ## Results
 When the fire is not in the range of the fire detector then Door remains close, Sprinkler remains off, Speaker remains silent, LCD panel prints the result SAFE but as soon as the fire comes in the detection range of the fire monitor then Sprinkler turns on and sprinkles water, Door opens, Speakers turn on, LCD panel prints FIRE DETECTED.
 
+##Demo
+https://github.com/AyanNaska/IoT-FireGuard-Automated-Fire-Alert-and-Suppression-System/assets/113054786/c38b2218-efe2-49da-96b1-d72eced5b003
+
 ## Conclusion
 According to the National Fire Protection Association (NFPA), fire departments respond to over 350,000 home structure fires a year nationwide, causing almost $7 billion in direct damage. Far more tragic than property destruction, is the more than 2,500 civilian fire deaths and 12,300 civilian fire injuries annually. This project cannot destroy the cause of these accidents but it’s the best thing we can have to fight fire accidents if it ever happens. This should be installed in every house, schools, colleges shops and especially in places where inflammable substances are there where chances of fire accidents are more.
