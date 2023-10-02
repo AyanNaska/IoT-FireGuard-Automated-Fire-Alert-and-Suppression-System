@@ -19,6 +19,7 @@ Fire Detectors play a very important role in Industries, Shops, Malls, Residenti
 - **Water Sprinkler:** It's also one of the output devices used in this project, which is set to get activated by MCU in case if fire is detected. It will get activated and sprinkle water on fire to cut the oxygen supply to the fire so that the fire spread can be stopped.
 
 ## Project Layout
+![Fire Alert](https://github.com/AyanNaska/IoT-FireGuard-Automated-Fire-Alert-and-Suppression-System/assets/113054786/86967ef6-3dd7-40a9-8fa5-86b66d50ad80)
 
 ## Connections
 - Fire Monitor from D0 to D0 on MCU
